@@ -2,9 +2,9 @@
 -- Company: 
 -- Engineer: 
 -- 
--- Create Date: 14.03.2020 11:02:57
+-- Create Date: 14.03.2020 14:17:11
 -- Design Name: 
--- Module Name: uart6_kc705 - Behavioral
+-- Module Name: processor - Behavioral
 -- Project Name: 
 -- Target Devices: 
 -- Tool Versions: 
@@ -31,19 +31,13 @@ use IEEE.STD_LOGIC_1164.ALL;
 --library UNISIM;
 --use UNISIM.VComponents.all;
 
-entity uart6_kc705 is
-    Port ( uart_rx : in STD_LOGIC;
-           uart_tx : out STD_LOGIC;
-           clk200_p : in STD_LOGIC;
-           clk200_n : in STD_LOGIC);
-end uart6_kc705;
+entity processor is
+--  Port ( );
+end processor;
 
-architecture Behavioral of uart6_kc705 is
+architecture Behavioral of processor is
 
 begin
 
 
 end Behavioral;
-
-
-
