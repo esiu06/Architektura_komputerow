@@ -1,0 +1,11 @@
+0.6
+2017.4
+Jan 30 2018
+15:48:17
+G:/Architektora_Kom/project_2/project_2.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+G:/Architektora_Kom/project_2/project_2.srcs/sim_1/imports/KC705_design/testbench_uart6_kc705.vhd,1405342069,vhdl,,,,testbench_uart6_kc705,,,,,,,,
+G:/Architektora_Kom/project_2/project_2.srcs/sources_1/imports/KC705_design/uart6_kc705.v,1403278511,verilog,,G:/Architektora_Kom/project_2/project_2.srcs/sources_1/imports/Laboratorium/UART_and_PicoTerm/uart_rx6.v,,uart6_kc705,,,,,,,,
+G:/Architektora_Kom/project_2/project_2.srcs/sources_1/imports/Laboratorium/UART_and_PicoTerm/uart_rx6.v,1310124304,verilog,,G:/Architektora_Kom/project_2/project_2.srcs/sources_1/imports/Laboratorium/UART_and_PicoTerm/uart_tx6.v,,uart_rx6,,,,,,,,
+G:/Architektora_Kom/project_2/project_2.srcs/sources_1/imports/Laboratorium/UART_and_PicoTerm/uart_tx6.v,1310124276,verilog,,,,uart_tx6,,,,,,,,
+G:/Architektora_Kom/project_2/project_2.srcs/sources_1/imports/Laboratorium/Verilog/kcpsm6.v,1400662020,verilog,,G:/Architektora_Kom/project_2/project_2.srcs/sources_1/imports/KC705_design/uart6_kc705.v,,kcpsm6,,,,,,,,
+G:/Architektora_Kom/project_2/project_2.srcs/sources_1/new/auto_baud_rate_control.v,1584280879,verilog,,G:/Architektora_Kom/project_2/project_2.srcs/sources_1/imports/Laboratorium/Verilog/kcpsm6.v,,auto_baud_rate_control;jtag_loader_6,,,,,,,,

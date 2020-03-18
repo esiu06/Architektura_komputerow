@@ -1,0 +1,21 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Architektora_Kom/project_2/project_2.srcs/sources_1/new/auto_baud_rate_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module auto_baud_rate_control
+INFO: [VRFC 10-311] analyzing module jtag_loader_6
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Architektora_Kom/project_2/project_2.srcs/sources_1/imports/Laboratorium/Verilog/kcpsm6.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module kcpsm6
+WARNING: [VRFC 10-2021] parameter declaration is not allowed here in this mode of verilog [G:/Architektora_Kom/project_2/project_2.srcs/sources_1/imports/Laboratorium/Verilog/kcpsm6.v:1483]
+WARNING: [VRFC 10-2021] parameter declaration is not allowed here in this mode of verilog [G:/Architektora_Kom/project_2/project_2.srcs/sources_1/imports/Laboratorium/Verilog/kcpsm6.v:1484]
+WARNING: [VRFC 10-2021] parameter declaration is not allowed here in this mode of verilog [G:/Architektora_Kom/project_2/project_2.srcs/sources_1/imports/Laboratorium/Verilog/kcpsm6.v:1485]
+WARNING: [VRFC 10-2021] parameter declaration is not allowed here in this mode of verilog [G:/Architektora_Kom/project_2/project_2.srcs/sources_1/imports/Laboratorium/Verilog/kcpsm6.v:1796]
+WARNING: [VRFC 10-2021] parameter declaration is not allowed here in this mode of verilog [G:/Architektora_Kom/project_2/project_2.srcs/sources_1/imports/Laboratorium/Verilog/kcpsm6.v:1885]
+WARNING: [VRFC 10-2021] parameter declaration is not allowed here in this mode of verilog [G:/Architektora_Kom/project_2/project_2.srcs/sources_1/imports/Laboratorium/Verilog/kcpsm6.v:1886]
+WARNING: [VRFC 10-2021] parameter declaration is not allowed here in this mode of verilog [G:/Architektora_Kom/project_2/project_2.srcs/sources_1/imports/Laboratorium/Verilog/kcpsm6.v:1887]
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Architektora_Kom/project_2/project_2.srcs/sources_1/imports/KC705_design/uart6_kc705.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module uart6_kc705
+WARNING: [VRFC 10-2096] empty statement in sequential block [G:/Architektora_Kom/project_2/project_2.srcs/sources_1/imports/KC705_design/uart6_kc705.v:299]
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Architektora_Kom/project_2/project_2.srcs/sources_1/imports/Laboratorium/UART_and_PicoTerm/uart_rx6.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module uart_rx6
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Architektora_Kom/project_2/project_2.srcs/sources_1/imports/Laboratorium/UART_and_PicoTerm/uart_tx6.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module uart_tx6
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Architektora_Kom/project_2/project_2.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

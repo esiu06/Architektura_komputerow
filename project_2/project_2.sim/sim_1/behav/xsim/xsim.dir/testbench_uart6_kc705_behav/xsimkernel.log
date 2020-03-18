@@ -1,0 +1,7 @@
+Running: xsim.dir/testbench_uart6_kc705_behav/xsimk.exe -simmode gui -wdb testbench_uart6_kc705_behav.wdb -simrunnum 0 -socket 54686
+Design successfully loaded
+Design Loading Memory Usage: 8516 KB (Peak: 8516 KB)
+Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 12212 KB (Peak: 12212 KB)
+Simulation CPU Usage: 1561 ms

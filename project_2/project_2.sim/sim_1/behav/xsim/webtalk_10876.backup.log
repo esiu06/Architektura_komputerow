@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4.1 (64-bit)
+# SW Build 2117270 on Tue Jan 30 15:32:00 MST 2018
+# IP Build 2095745 on Tue Jan 30 17:13:15 MST 2018
+# Start of session at: Sun Mar 15 15:17:26 2020
+# Process ID: 10876
+# Current directory: G:/Architektora_Kom/project_2/project_2.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source G:/Architektora_Kom/project_2/project_2.sim/sim_1/behav/xsim/xsim.dir/testbench_uart6_kc705_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: G:/Architektora_Kom/project_2/project_2.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: G:/Architektora_Kom/project_2/project_2.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source G:/Architektora_Kom/project_2/project_2.sim/sim_1/behav/xsim/xsim.dir/testbench_uart6_kc705_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Sun Mar 15 15:17:28 2020...

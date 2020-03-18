@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_2.srcs/sources_1/new/auto_baud_rate_control.v" \
+"../../../../project_2.srcs/sources_1/imports/Laboratorium/Verilog/kcpsm6.v" \
+"../../../../project_2.srcs/sources_1/imports/KC705_design/uart6_kc705.v" \
+"../../../../project_2.srcs/sources_1/imports/Laboratorium/UART_and_PicoTerm/uart_rx6.v" \
+"../../../../project_2.srcs/sources_1/imports/Laboratorium/UART_and_PicoTerm/uart_tx6.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
